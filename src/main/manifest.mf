@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: online.pigeonshouse.shelliconkit.cli.IconTool
+Automatic-Module-Name: online.pigeonshouse.shelliconkit
+Enable-Native-Access: ALL-UNNAMED
